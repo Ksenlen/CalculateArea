@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CalculateArea\CalculateArea.csproj" />
+    <ProjectReference Include="..\CalculateArea\CalculateAreaLibrary.csproj" />
   </ItemGroup>
 
 </Project>

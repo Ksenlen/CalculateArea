@@ -1,4 +1,4 @@
-﻿namespace CalculateArea
+﻿namespace CalculateAreaLibrary
 {
     public interface IShape
     {
